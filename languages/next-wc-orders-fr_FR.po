@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Next Orders\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-01 21:51+0100\n"
+"PO-Revision-Date: 2022-11-01 21:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: trans_next_watermark\n"
+"X-Poedit-Basepath: ../includes\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: nwco-functions.php\n"
+"X-Poedit-SearchPath-1: nwco-acp-page.php\n"
+
+#: nwco-acp-page.php:87 nwco-functions.php:438
+msgid "Settings"
+msgstr "Réglages généraux"
+
+#: nwco-acp-page.php:88 nwco-acp-page.php:100 nwco-functions.php:439
+msgid "Orders"
+msgstr "Commandes"
+
+#: nwco-acp-page.php:89 nwco-acp-page.php:123 nwco-acp-page.php:288 nwco-functions.php:440
+msgid "Stats"
+msgstr "Statistiques"
+
+#: nwco-acp-page.php:104
+msgid "Detailed products"
+msgstr "Détail des produits"
+
+#: nwco-acp-page.php:105
+msgid "Shows detailed products list with quantity and price for each order"
+msgstr "Affiche la liste détaillée des produits avec quantité et prix pour chaque commande"
+
+#: nwco-acp-page.php:111 nwco-acp-page.php:190 nwco-functions.php:115 nwco-functions.php:273 nwco-functions.php:685
+msgid "Status"
+msgstr "Etat des commandes"
+
+#: nwco-acp-page.php:113 nwco-functions.php:686
+msgid "Completed"
+msgstr "Terminée"
+
+#: nwco-acp-page.php:114 nwco-functions.php:687
+msgid "On hold"
+msgstr "En attente"
+
+#: nwco-acp-page.php:115 nwco-functions.php:688
+msgid "Processing"
+msgstr "En cours"
+
+#: nwco-acp-page.php:116 nwco-functions.php:689
+msgid "Pending"
+msgstr "Attente paiement"
+
+#: nwco-acp-page.php:117 nwco-functions.php:690
+msgid "Refunded"
+msgstr "Remboursée"
+
+#: nwco-acp-page.php:118 nwco-functions.php:691
+msgid "Cancelled"
+msgstr "Annulée"
+
+#: nwco-acp-page.php:119 nwco-functions.php:692
+msgid "Failed"
+msgstr "Echouée"
+
+#: nwco-acp-page.php:127
+msgid "3D Pie"
+msgstr "Graphique 3D"
+
+#: nwco-acp-page.php:128
+msgid "Displays stats pie chart in 3D"
+msgstr "Affiche le graphique des statistiques en 3D"
+
+#: nwco-acp-page.php:134
+msgid "Year colors"
+msgstr "Couleurs des années"
+
+#: nwco-acp-page.php:148
+msgid "Save"
+msgstr "Enregistrer"
+
+#: nwco-acp-page.php:168
+msgid "Filter"
+msgstr "Filtre"
+
+#: nwco-acp-page.php:171
+msgid "Free shipping only"
+msgstr "Envoi gratuit"
+
+#: nwco-acp-page.php:176 nwco-functions.php:592 nwco-functions.php:616
+msgid "Year"
+msgstr "Année"
+
+#: nwco-acp-page.php:205
+msgid "Total greater than"
+msgstr "Total supérieur à"
+
+#: nwco-acp-page.php:207
+msgid "Display only orders which total is greater than this amount"
+msgstr "Filtre les commandes dont le total est supérieur"
+
+#: nwco-acp-page.php:210
+msgid "Product name"
+msgstr "Nom du produit"
+
+#: nwco-acp-page.php:215
+msgid "Product category"
+msgstr "Catégorie du produit"
+
+#: nwco-acp-page.php:257
+msgid "Clear filter"
+msgstr "Vider le filtre"
+
+#: nwco-acp-page.php:259
+msgid "Apply filter"
+msgstr "Appliquer le filtre"
+
+#: nwco-acp-page.php:264
+msgid "Export CSV"
+msgstr "Export CSV"
+
+#: nwco-acp-page.php:265
+msgid "Export HTML"
+msgstr "Export HTML"
+
+#: nwco-acp-page.php:285
+msgid "Category"
+msgstr "Catégorie"
+
+#: nwco-acp-page.php:302
+msgid "Orders per year"
+msgstr "Commandes par an"
+
+#: nwco-acp-page.php:308
+msgid "Total sales per year"
+msgstr "Total des ventes par an"
+
+#: nwco-acp-page.php:318
+msgid "Number of products by category"
+msgstr "Nombre de produits par catégorie"
+
+#: nwco-acp-page.php:330
+msgid "Order status"
+msgstr "Etat des commandes"
+
+#: nwco-functions.php:109 nwco-functions.php:213 nwco-functions.php:268 nwco-functions.php:385 nwco-functions.php:611 nwco-functions.php:635
+#: nwco-functions.php:693 nwco-functions.php:966 nwco-functions.php:1073
+msgid "TOTAL"
+msgstr "TOTAL"
+
+#: nwco-functions.php:115 nwco-functions.php:273
+msgid "Order Id."
+msgstr "Commande id."
+
+#: nwco-functions.php:115 nwco-functions.php:273
+msgid "Total"
+msgstr "Total"
+
+#: nwco-functions.php:115 nwco-functions.php:273
+msgid "Product + Shipping"
+msgstr "Produit + Envoi"
+
+#: nwco-functions.php:115 nwco-functions.php:273
+msgid "Date"
+msgstr "Date"
+
+#: nwco-functions.php:141 nwco-functions.php:355
+msgid "Free"
+msgstr "Gratuit"
+
+#: nwco-functions.php:217 nwco-functions.php:393
+msgid "GRAND TOTAL"
+msgstr "GRAND TOTAL"
+
+#: nwco-functions.php:388
+msgid "No match found!!!"
+msgstr "Aucun résultat!!!"
+
+#: nwco-functions.php:485
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas la permission suffisante pour accéder à cette page."
+
+#: nwco-functions.php:495
+msgid "Add for free"
+msgstr "Obtenir gratuitement"
+
+#: nwco-functions.php:495
+msgid "Next Product Labels & Badges for WooCommerce"
+msgstr "Next Product Labels & Badges for WooCommerce"
+
+#: nwco-functions.php:495
+msgid "Next Toolbox for WooCommerce"
+msgstr "Next Toolbox for WooCommerce"
+
+#: nwco-functions.php:496
+msgid "You like this plugin?"
+msgstr "Vous aimez ce plugin?"
+
+#: nwco-functions.php:496
+msgid "Offer me a coffee!"
+msgstr "Offrez-moi un café!"
+
+#: nwco-functions.php:592
+msgid "Number of orders"
+msgstr "Nombre de commandes"
+
+#: nwco-functions.php:592 nwco-functions.php:616
+msgid "Evolution"
+msgstr "Evolution"
+
+#: nwco-functions.php:612
+msgid "Average number of orders per year:"
+msgstr "Nombre moyen de commandes par an:"
+
+#: nwco-functions.php:616 nwco-functions.php:1069
+msgid "Total sales"
+msgstr "Total des ventes"
+
+#: nwco-functions.php:636
+msgid "Average amount per year:"
+msgstr "Montant moyen par an:"
+
+#: nwco-functions.php:685 nwco-functions.php:962
+msgid "Total orders"
+msgstr "Total des commandes"
+
+#: nwco-functions.php:813 nwco-functions.php:958 nwco-functions.php:1065
+msgid "Media line shown in gray"
+msgstr "Ligne moyenne affichée en gris"
+
+#: nwco-functions.php:866
+msgid "Orders per month"
+msgstr "Commandes par mois"
+
+#: nwco-functions.php:893 nwco-functions.php:1000
+msgid "Jan"
+msgstr "Janv."
+
+#: nwco-functions.php:894 nwco-functions.php:1001
+msgid "Feb"
+msgstr "Févr."
+
+#: nwco-functions.php:895 nwco-functions.php:1002
+msgid "Mar"
+msgstr "Mars"
+
+#: nwco-functions.php:896 nwco-functions.php:1003
+msgid "Apr"
+msgstr "Avr."
+
+#: nwco-functions.php:897 nwco-functions.php:1004
+msgid "May"
+msgstr "Mai"
+
+#: nwco-functions.php:898 nwco-functions.php:1005
+msgid "Jun"
+msgstr "Juin"
+
+#: nwco-functions.php:899 nwco-functions.php:1006
+msgid "Jul"
+msgstr "Juil."
+
+#: nwco-functions.php:900 nwco-functions.php:1007
+msgid "Aug"
+msgstr "Août"
+
+#: nwco-functions.php:901 nwco-functions.php:1008
+msgid "Sep"
+msgstr "Sept."
+
+#: nwco-functions.php:902 nwco-functions.php:1009
+msgid "Oct"
+msgstr "Oct."
+
+#: nwco-functions.php:903 nwco-functions.php:1010
+msgid "Nov"
+msgstr "Nov."
+
+#: nwco-functions.php:904 nwco-functions.php:1011
+msgid "Dec"
+msgstr "Déc."
+
+#: nwco-functions.php:962 nwco-functions.php:1069
+msgid "Month"
+msgstr "Mois"
+
+#: nwco-functions.php:973
+msgid "Total sales per month"
+msgstr "Total des ventes par mois"
+
+#: nwco-functions.php:1108
+msgid "Uncategorized"
+msgstr "Sans catégorie"
+
+#: nwco-functions.php:1269
+msgid "Number of products per category with [top-level category]."
+msgstr "Nombre de produits pas catégorie avec [catégorie mère]."
+
+#: nwco-functions.php:1269
+msgid "Products with several categories will be displayed as many times."
+msgstr "Les produits avec plusieurs catégories seront affichés autant de fois."
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "If not, first top-level category found is used..."
+#~ msgstr "Sinon la première catégorie trouvée est utilisée..."
+
+#~ msgid "Years"
+#~ msgstr "Années"
+
+#~ msgid "restored image file(s) to media library"
+#~ msgstr "fichiers image restauré(s) dans la bibliothèque"
+
+#~ msgid "Watermark Text"
+#~ msgstr "Filigrane Texte"
+
+#~ msgid "Watermark Image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Backup/Restore"
+#~ msgstr "Restauration"
+
+#~ msgid "Watermark text"
+#~ msgstr "Filigrane texte"
+
+#~ msgid "E.g.: &copy; Your name"
+#~ msgstr "Ex.: &copy; Votre nom"
+
+#~ msgid "m/d/Y"
+#~ msgstr "d/m/Y"
+
+#~ msgid "Font"
+#~ msgstr "Police"
+
+#~ msgid "Font size"
+#~ msgstr "Taille de police"
+
+#~ msgid "Font color"
+#~ msgstr "Couleur de police"
+
+#~ msgid "Transparency"
+#~ msgstr "Transparence"
+
+#~ msgid "Set the font transparency"
+#~ msgstr "Définir la transparence"
+
+#~ msgid "From 0 (completely opaque) to 127 (completely transparent)"
+#~ msgstr "De 0 (complétement opaque) à 127 (complétement transparent)"
+
+#~ msgid "Orientation"
+#~ msgstr "Orientation"
+
+#~ msgid "From 0&deg; to 360&deg;"
+#~ msgstr "De 0&deg; à 360&deg;"
+
+#~ msgid "Mosaic"
+#~ msgstr "Mosaïque"
+
+#~ msgid "Repeat the watermark text"
+#~ msgstr "Dupliquer le filigrane texte"
+
+#~ msgid "Mosaic size"
+#~ msgstr "Taille de la mosaïque"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Custom"
+#~ msgstr "Personnalisée"
+
+#~ msgid "Custom Mosaic size"
+#~ msgstr "Taille personnalisée"
+
+#~ msgid "Shift watermarks"
+#~ msgstr "Décaler les filigranes"
+
+#~ msgid "Alignment"
+#~ msgstr "Alignement"
+
+#~ msgid "Offset X"
+#~ msgstr "Décalage en X"
+
+#~ msgid "Negative X value relative to right side"
+#~ msgstr "Valeur négative de X relative au côté droit"
+
+#~ msgid "Offset Y"
+#~ msgstr "Décalage en Y"
+
+#~ msgid "Negative Y value relative to bottom side"
+#~ msgstr "Valeur négative de Y relative au côté inférieur"
+
+#~ msgid "Error applying watermark!"
+#~ msgstr "Erreur en apposant le filigrane!"
+
+#~ msgid "Apply text watermark"
+#~ msgstr "Activer le filigrane de type texte"
+
+#~ msgid "Watermark image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Watermark image not found!"
+#~ msgstr "Filigrane image absent!"
+
+#~ msgid "Change Image watermark"
+#~ msgstr "Changer le filigrane image"
+
+#~ msgid "Press Apply button to see changes."
+#~ msgstr "Presser le bouton Activer pour voir les changements."
+
+#~ msgid "Upload Image watermark"
+#~ msgstr "Téléverser un filigrane image"
+
+#~ msgid "Set the orientation to 0&deg; to enable 'Opacity' and 'Fit to image' options"
+#~ msgstr "Réglez l'orientation à 0&deg; pour activer les options 'Opacité' et 'Ajuster à l'image'"
+
+#~ msgid "Set the opacity (gif & jpg only, with NO orientation)"
+#~ msgstr "Définir l'opacité (seulement pour les GIF/JPEG, sans orientation)"
+
+#~ msgid "From 0% (fully transparent) to 100% (fully opaque)"
+#~ msgstr "De 0% (complétement transparent) à 100% (complétement opaque)"
+
+#~ msgid "Special effects"
+#~ msgstr "Effets spéciaux"
+
+#~ msgid "Greyscale watermark"
+#~ msgstr "Nuances de gris"
+
+#~ msgid "Negative watermark"
+#~ msgstr "Watermark négatif"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "(Use Aligment parameters below)"
+#~ msgstr "(Utilise les paramètres d'alignement)"
+
+#~ msgid "Upper left"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Upper center"
+#~ msgstr "En haut au centre"
+
+#~ msgid "Upper right"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Middle left"
+#~ msgstr "Au milieu à gauche"
+
+#~ msgid "Middle center"
+#~ msgstr "Au milieu au centre"
+
+#~ msgid "Middle right"
+#~ msgstr "Au milieu à droite"
+
+#~ msgid "Bottom left"
+#~ msgstr "En bas à gauche"
+
+#~ msgid "Bottom center"
+#~ msgstr "En bas au centre"
+
+#~ msgid "Bottom right"
+#~ msgstr "En bas à droite"
+
+#~ msgid "Fit watermark to image width"
+#~ msgstr "Ajuster le filigrane à la largeur de l'image"
+
+#~ msgid "Do NOT use Offset X but Margin X parameter"
+#~ msgstr "N'utilise PAS le décalage en X mais la marge en X"
+
+#~ msgid "Fit watermark to image height"
+#~ msgstr "Ajuster le filigrane à la hauteur de l'image"
+
+#~ msgid "Do NOT use Offset Y but Margin Y parameter"
+#~ msgstr "N'utilise PAS le décalage en Y mais la marge en Y"
+
+#~ msgid "Keep aspect ratio"
+#~ msgstr "Préserver le ratio"
+
+#~ msgid "(Left and right margins around watermark)"
+#~ msgstr "Marges gauche et droite autour du filigrane)"
+
+#~ msgid "(Top and bottom margins around watermark)"
+#~ msgstr "Marges haute et basse autour du filigrane)"
+
+#~ msgid "Backup/Restore media images"
+#~ msgstr "Sauvegarde/Restauration des images"
+
+#~ msgid "Restore"
+#~ msgstr "Restauration"
+
+#~ msgid "Backup"
+#~ msgstr "Sauvegarde"
+
+#~ msgid "Backup images before watermark"
+#~ msgstr "Sauver les images avant filigranage"
+
+#~ msgid "Stored at"
+#~ msgstr "Sauvé dans"
+
+#~ msgid "Restore only current existing images"
+#~ msgstr "Restaurer seulement les images existantes"
+
+#~ msgid "Restore all images from backup directory"
+#~ msgstr "Restaurer toutes les images du répertoire de sauvegarde"
+
+#~ msgid "Watermarking"
+#~ msgstr "Filigranage numérique"
+
+#~ msgid "Watermark automatically images when uploading in the media gallery"
+#~ msgstr "Appliquer automatiquement le(s) filigrane(s) lors du téléversement de nouvelles images"
+
+#~ msgid "Watermark types"
+#~ msgstr "Types de filigranes"
+
+#~ msgid "Select to activate text watermark, image watermark, or both"
+#~ msgstr "Activer le filigrane de type texte, image ou les deux"
+
+#~ msgid "Activate text watermark"
+#~ msgstr "Activer le filigrane de type texte"
+
+#~ msgid "Activate image watermark"
+#~ msgstr "Activer le filigrane de type image"
+
+#~ msgid "Image quality"
+#~ msgstr "Qualité d'image"
+
+#~ msgid "Set the image quality - Default value (-1) uses the default IJG quality value (about 75)"
+#~ msgstr "Définir la qualité d'image - Par défaut (-1) utilise la qualité IJG (environ 75)"
+
+#~ msgid "From 0 (worst quality, smaller file) to 100 (best quality, biggest file)"
+#~ msgstr "De 0 (moins bonne qualité, fichier plus petit) à 100 (meilleure qualité, fichier plus grand)"
+
+#~ msgid "Image types"
+#~ msgstr "Types d'image"
+
+#~ msgid "Select the image types to be watermarked"
+#~ msgstr "Sélectionner les types d'images à apposer le filigrane"
+
+#~ msgid "Image sizes"
+#~ msgstr "Tailles d'image"
+
+#~ msgid "Select the image sizes to be watermarked"
+#~ msgstr "Sélectionner les tailles d'images à apposer le filigrane"
+
+#~ msgid "Post types"
+#~ msgstr "Type de posts"
+
+#~ msgid "Select the post types to be watermarked"
+#~ msgstr "Sélectionner les types de posts à apposer le filigrane"
+
+#~ msgid "Content protection"
+#~ msgstr "Protection du contenu"
+
+#~ msgid "Copy protection"
+#~ msgstr "Protection contre la copie"
+
+#~ msgid "Disable right click and copy content"
+#~ msgstr "Désactiver le clic droit et la copie de contenu"
+
+#~ msgid "Set Watermarks"
+#~ msgstr "Définir les filigranes"
+
+#~ msgid "Set Watermark Text"
+#~ msgstr "Définir le filigrane texte"
+
+#~ msgid "Set Watermark Image"
+#~ msgstr "Définir le filigrane image"
+
+#~ msgid "Set Backup/Restore options"
+#~ msgstr "Définir les options de sauvegarde/restauration"
+
+#~ msgid "Data have been saved successfully!"
+#~ msgstr "Réglages enregistrés!"
+
+#~ msgid "Sorry, cannot do this..."
+#~ msgstr "Désolé, impossible de réaliser cette action..."
+
+#~ msgid "Both image and text watermarks are disabled!"
+#~ msgstr "Les filigranes de type texte et image sont tous deux désactivés!"
+
+#~ msgid "Cannot keep aspect ratio when both 'Fit' options are selected!"
+#~ msgstr "Impossible de conserver le ratio quand les deux options 'Fit' sont selectionnées!"
+
+#~ msgid "Image format not allowed!"
+#~ msgstr "Format d'image non autorisé!"
+
+#~ msgid "Watermark image format not allowed!"
+#~ msgstr "Format de filigrane non autorisé!"
+
+#~ msgid "Watermak image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Watermak Text"
+#~ msgstr "Filigrane texte"
+
+#~ msgid "Watermak Image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "none"
+#~ msgstr "Aucun"
